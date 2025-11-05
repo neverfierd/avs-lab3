@@ -1,0 +1,16 @@
+*   dbb170e (HEAD -> release, main) resolve conflict to merge feature2:main
+|\  
+| * 75d01ee (feature2) lab: resolve merge commit feature2:main
+| * 330c698 feature2 change
+* |   964561d resolve conflict in log.txt(for merge feature1:main
+|\ \  
+| * | 2f55b2f (feature1) feature1 change
+| |/  
+* / 15bffa6 (server_last) main: added зачет, reset to 3rd commit
+|/  
+* 4a9ec95 (pr_feature, hotfix, hf_tests, gguf, backend_metal, backend_cuda) add log.txt 5
+* 11b61db add log.txt 4
+* 39c2d11 add log.txt 3
+* d389d91 add log.txt 2
+* 1a60dc1 add log.txt 1
+* edb9a5a init
